@@ -1,4 +1,6 @@
 # xserver
+[![Build Status](https://travis-ci.com/cheneyweb/page-xserver.svg?branch=master)](https://travis-ci.com/cheneyweb/page-xserver)
+
 XServer官网
 
 更新日志
