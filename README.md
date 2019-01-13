@@ -10,4 +10,5 @@ XServer官网
 	2018.09.12:更新iview至3.1.0版本，使用parcel1.9.2构建
 	2018.10.10:更新iview至3.1.3版本，使用parcel1.10.2构建
 	2018.12.07:增加持续构建
+	2019.01.13:更新koa-xnosql和express-xnosql的版本
 	
