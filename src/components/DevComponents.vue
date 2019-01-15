@@ -112,7 +112,7 @@ export default {
       data1: [
         {
           name: "koa-xauth",
-          version: "1.1.0",
+          version: "1.2.0",
           descript: "TOKEN令牌式身份认证集成",
           github: "https://github.com/cheneyweb/koa-xauth"
         },
@@ -154,7 +154,7 @@ export default {
         },
         {
           name: "express-xauth",
-          version: "1.1.0",
+          version: "1.2.0",
           descript: "TOKEN令牌式身份认证集成",
           github: "https://github.com/cheneyweb/express-xauth"
         },
