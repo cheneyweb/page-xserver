@@ -190,7 +190,7 @@ export default {
         },
         {
           name: "express-xnosql",
-          version: "1.8.0",
+          version: "1.9.0",
           descript: "NoSql服务应用路由中间件，快速构建轻量小巧灵活的NoSql服务",
           github: "https://github.com/cheneyweb/express-xnosql"
         }
