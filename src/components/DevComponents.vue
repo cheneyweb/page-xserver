@@ -154,19 +154,19 @@ export default {
         },
         {
           name: "express-xauth",
-          version: "1.2.0",
+          version: "1.3.0",
           descript: "TOKEN令牌式身份认证集成",
           github: "https://github.com/cheneyweb/express-xauth"
         },
         {
           name: "express-xlog",
-          version: "1.1.0",
+          version: "1.2.0",
           descript: "异步日志中间件",
           github: "https://github.com/cheneyweb/express-xlog"
         },
         {
           name: "express-xerror",
-          version: "1.1.0",
+          version: "1.2.0",
           descript: "全局错误捕获中间件",
           github: "https://github.com/cheneyweb/express-xerror"
         },
